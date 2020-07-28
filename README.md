@@ -4,9 +4,10 @@ A Javascript(React) Sudoku game for playing on web browsers.
 
 ## Build and Run
 
-> npm install
-
-> npm start
+```javascript
+- npm install
+- npm start
+```
 
 ## Gameplay
 
